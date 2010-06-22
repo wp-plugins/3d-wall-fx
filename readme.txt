@@ -2,7 +2,7 @@
 Contributors: flashxml
 Tags: images, photos, widget, post, plugin, posts, sidebar, free, flash, as3, wall, 3d, gallery, thumb, thumbs, zoom, columns, rows, effect, tootip, flat, xml, rotate
 Requires at least: 2.8.0
-Tested up to: 2.9.2
+Tested up to: 3.0
 Stable tag: trunk
 
 == Description ==
