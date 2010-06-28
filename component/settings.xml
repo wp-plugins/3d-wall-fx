@@ -1,11 +1,13 @@
 <settings>
   <General_Properties>
+	<imagesXML value="images.xml"/>
     <showAbout value="true"/>
     <widthComponent value="600"/>
     <heightComponent value="300"/>
     <backgroundColor value="0x000000"/>
     <widthPlane value="75"/>
     <heightPlane value="45"/>
+	<preloader value="assets/sequence.swf"/>
   </General_Properties>
   <Wall_Properties>
     <typeOfWall value="insideCurvature"/>
