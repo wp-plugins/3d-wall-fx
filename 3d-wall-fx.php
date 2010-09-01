@@ -36,14 +36,10 @@ License: GPL2
 				$height = (int)$data->General_Properties->heightComponent->attributes()->value;
 			}
 		} elseif ((int)$wallfx_attributes[4] > 0 && (int)$wallfx_attributes[6] > 0) {
-			$width = $wallfx_attributes[4];
-			$height = $wallfx_attributes[6];
+			$width = (int)$wallfx_attributes[4];
+			$height = (int)$wallfx_attributes[6];
 		} else {
 			return '<!-- invalid 3D Wall FX width and / or height -->';
-		}
-
-		if ($width == 0 || $height == 0) {
-			return '';
 		}
 
 		$swf_embed = array(
