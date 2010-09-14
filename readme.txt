@@ -5,11 +5,9 @@ Requires at least: 2.8.0
 Tested up to: 3.0.1
 Stable tag: trunk
 
-== Description ==
-
 One of the most advanced 3D Wall on the web. Completely XML customizable, without using Flash. And it's free!
 
-= Main features =
+== Description ==
 
 You can integrate it in any website for free without even using Flash. Customizable width and height of the overall wall, up to 1680 x 1050 pixels. You can customize the number of columns and lines, items spacing, speed, radius and also the perspective and camera distance from wall. You can have different types of wall: flat, outside and inside curvature with different types of movement and tweening functions. The thumbs have glow and blur effects, you can link to an URL on clicking a thumb instead of enlarging it, the tooltips have a lot of properties and the scroll bar can be skinnable.
 
