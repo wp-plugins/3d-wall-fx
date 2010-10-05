@@ -47,7 +47,7 @@ License: GPL2
 			'height' => $height,
 			'text' => isset($wallfx_attributes[7]) ? trim($wallfx_attributes[7]) : '',
 			'component_path' => WP_CONTENT_URL . "/{$plugin_dir}/",
-			'swf_name' => '3dwall.swf',
+			'swf_name' => '3DWallFX.swf',
 		);
 		$swf_embed['swf_path'] = $swf_embed['component_path'].$swf_embed['swf_name'];
 
