@@ -37,7 +37,7 @@ To make it work with PHP4, add `[3d-wall-fx width="600" height="300"][/3d-wall-f
 
 = Getting rid of the FlashXML.net label =
 
-To remove the FlashXML.net label from the top-left corner you'll need to buy the [commercial archive](http://www.flashxml.net/3d-wall.html#swmi-license "3D Wall FX"). Once you'll do that, simply use the SWF file from the commercial archive to overwrite the SWF file from the `wp-content/flashxml/3d-wall-fx/` folder.
+To remove the FlashXML.net label from the top-left corner you'll need to buy the [paid package](http://www.flashxml.net/3d-wall.html "3D Wall FX"). Once you'll do that, simply use the SWF file from the paid package to overwrite the SWF file from the `wp-content/flashxml/3d-wall-fx/` folder.
 
 == Screenshots ==
 
